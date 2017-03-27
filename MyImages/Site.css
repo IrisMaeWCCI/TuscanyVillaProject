@@ -1,0 +1,96 @@
+﻿body {
+    font-family: 'Bree Serif', serif;
+    color:darkgray;
+}
+
+#contact-page a {
+   color: red;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+   }
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.MyImages {
+   
+   background-image: url("TVPBed.jpg");
+   background-position: center;
+   background-repeat: no-repeat;
+}
+ 
+div.transbox {
+  margin: 0px;
+   border: 0px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=0); /* For IE8 and earlier */
+  background-repeat:no-repeat;
+}
+
+div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+    background-repeat: no-repeat;
+    }
+
+ footer{
+    font-size:12px;
+    padding: 20px 0;
+}
+footer .col-sm-8 {
+    display: flex;
+    justify-content: flex-end;
+}
+footer ul{
+    list-style: none;
+}
+footer li img{
+    width: 32px;
+    height: 32px;
+}
+font-family {
+    'Source Sans Pro', sans-serif;
+}
+
+.boxesfont{
+    font-size:50px;
+}
+
+.mainPic{
+    
+   background-image:url('TVPGoldenLightsTurqoisePoolSideGoregous.jpg');
+   background-size:cover;
+   background-position:center;
+   height:350px;
+   width:auto;
+   border-top:0px;
+   padding-left: 0px;
+   padding-right:0px;
+}
+ 
+ .sidePic{
+     background-image:url(TVPMapAirplaineCocktail.jpg);
+     background-size:cover;
+     background-position:center;
+     height:350px;
+     width:auto;
+     border-top:0px;
+     padding-left: 0px;
+     padding-right:0px;
+ } 
+  .PoolSideWhiteChairs{
+     background-image:url(TVPOutdoorPoolSideWhiteCHairsPillows.jpg);
+     background-size:cover;
+     background-position:center;
+     height:350px;
+     width:auto;
+     border-top:0px;
+     padding-left: 0px;
+     padding-right:0px;
+ } 
